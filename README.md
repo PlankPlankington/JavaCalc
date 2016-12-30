@@ -2,7 +2,7 @@
 
 A GUI calculator implemented in java using Swing
 
-#Compiling
+#Compiling & Running
 
 ```sh
 javac -d . com/txt452/calc/basiccalc/*
